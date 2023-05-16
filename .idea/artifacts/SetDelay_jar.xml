@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SetDelay:jar">
+    <output-path>$PROJECT_DIR$/../../mc/plugins</output-path>
+    <root id="archive" name="SetDelay.jar">
+      <element id="module-output" name="SetDelay" />
+    </root>
+  </artifact>
+</component>

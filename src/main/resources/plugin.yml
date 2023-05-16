@@ -1,0 +1,8 @@
+name: SetDelay
+version: '${project.version}'
+main: xyz.setdelay.setdelay.SetDelay
+api-version: 1.19
+commands:
+  nohitdelay:
+    usage: /nohitdelay [tick]
+
